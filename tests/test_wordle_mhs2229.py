@@ -1,11 +1,11 @@
 from wordle_mhs2229 import wordle_mhs2229
 
 import pytest
-# from wordle_mhs2229 import (
-#     validate_guess,
-#     check_guess,
-#     is_valid_word
-# )
+from wordle_mhs2229 import (
+    validate_guess,
+    check_guess,
+    is_valid_word
+)
 
 @pytest.fixture
 def common_word_list():
