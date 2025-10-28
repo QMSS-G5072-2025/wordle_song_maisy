@@ -1,6 +1,6 @@
 # wordle_mhs2229
 
-hw07 7 wordle package
+hw07 wordle package
 
 ## Installation
 
